@@ -1,0 +1,7 @@
+captures/
+edge-profile/
+summary-preview.png
+today-summary.html
+output.bin
+__pycache__/
+*.pyc
